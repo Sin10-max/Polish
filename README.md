@@ -1,2 +1,4 @@
-# Polish
-Polish - A lightweight Windows optimizer that makes your PC feel smoother, cleaner, and more polished without sacrificing its look.
+# Polish Me Please (PMP)
+
+To use this tool you must go through Polisher -> Polisher -> 
+bin -> Debug -> net10.0-windows -> then double click Polisher.exe
